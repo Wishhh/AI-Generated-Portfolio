@@ -1,5 +1,9 @@
 # AI-Generated Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-blue?style=for-the-badge&logo=github)](https://wishhh.github.io/AI-Generated-Portfolio/)
+
+![Portfolio Screenshot](assets/og-image.png)
+
 A visually stunning, interactive, and fully responsive personal portfolio website for Andria Gagoshashvili, generated and refined with the help of AI.
 
 ## Features
